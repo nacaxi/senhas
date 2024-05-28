@@ -1,2 +1,2 @@
-# senhas
-Nesse projeto vc pode criar várias senhas
+# Site Senhas
+Trabalho de Programação II - Equipe do Natan: Natan Guimarães
