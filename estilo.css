@@ -6,9 +6,7 @@
     --borda: #0075FF;
 }
 
-
-
 body{
-    background-color: #00162E;
-    color: white;
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
 }
