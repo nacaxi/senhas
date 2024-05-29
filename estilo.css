@@ -9,6 +9,9 @@
 }
 
 body{
+    font-family: "Lexend", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
 }
