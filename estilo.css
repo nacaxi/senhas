@@ -27,3 +27,6 @@ body{
 .titulo-secundario{
     font-size: 24px;
 }
+
+.conteudo-titulo{
+    display: flex;
