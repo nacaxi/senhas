@@ -29,4 +29,6 @@ body{
 }
 
 .conteudo-titulo{
-    display: flex;
+    text-align: center;
+    margin-top: 80px;
+}
