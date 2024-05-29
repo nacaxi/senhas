@@ -23,3 +23,7 @@ body{
 .titulo-principal{
     font-weight: 700;
 }
+
+.titulo-secundario{
+    font-weight: 24px;
+}
