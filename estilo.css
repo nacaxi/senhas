@@ -19,3 +19,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
 }
+
+.titulo-principal{
+    font-weight: 700;
+}
