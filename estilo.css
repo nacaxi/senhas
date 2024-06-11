@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 :root{
-    --cor-de-fundo: #004c4e;
+    --cor-de-fundo: #003636;
     --cor-de-texto: white;
-    --fundo-senha: #006e72;
-    --fundo-texto: #00a39b;
-    --borda: #004949;
+    --fundo-senha: #005858;
+    --fundo-texto: #007575;
+    --borda: #00c4c4;
 }
 
 *{
