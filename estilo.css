@@ -21,7 +21,6 @@ body{
 }
 
 .titulo-principal{
-    font-family: var(--roboto-mono);
     font-size: 32px;
 }
 
