@@ -45,7 +45,7 @@ body{
 background-color: var(--fundo-texto);
 border: none;
 color: var(--cor-de-texto);
-font: 40px;
+font-size: 40px;
 
 }
 
