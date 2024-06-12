@@ -21,9 +21,9 @@ body{
 }
 
 .titulo-principal{
-    font-size: 32px;
-}
+    font-weight: 700;
 
+}
 .titulo-secundario{
     font-size: 24px;
 }
