@@ -49,7 +49,7 @@ font-size: 40px;
 margin-left: 20px;
 }
 
-#campo-senha :focus{
+#campo-senha:focus{
 outline: none;
 
 
