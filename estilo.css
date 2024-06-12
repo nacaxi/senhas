@@ -49,6 +49,13 @@ font-size: 40px;
 
 }
 
+#campo-senha: :focus{
+outline: none;
+
+
+}
+
+
 .parametro-senha-botoes{
     display: flex;
     justify-content: center;
