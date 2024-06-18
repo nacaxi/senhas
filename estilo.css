@@ -96,3 +96,9 @@ outline: none;
     flex-direction: column;
     justify-content: center;
 }
+
+@media screen and (min-width:768px){
+    .parametro--coluna-senha{
+        flex-direction: row;
+    }
+}
