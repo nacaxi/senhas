@@ -42,15 +42,16 @@ body{
 }
 
 #campo-senha{
-background-color: var(--fundo-texto);
-border: none;
-color: var(--cor-de-texto);
-font-size: 40px;
-margin-left: 20px;
+    background-color: var(--fundo-texto);
+    border: none;
+    color: var(--cor-de-texto);
+    font-size: 40px;
+    margin-left: 20px;
+    width: 70%;
 }
 
 #campo-senha:focus{
-outline: none;
+    outline: none;
 
 }
 
