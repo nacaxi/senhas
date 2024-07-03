@@ -110,6 +110,15 @@ body{
     width: 30%;
 }
 
+.forca{
+    height: 30%;
+}
+
+.fraca{
+    width: 25%;
+    background-color: red;
+}
+
 @media screen and (min-width:768px){
     .parametro-coluna__senha{
         flex-direction: row;
