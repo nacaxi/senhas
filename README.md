@@ -1,2 +1,2 @@
 # Site Senhas
-Trabalho de Programação II - Giovana Rodrigues e Natan Guimarães
+Trabalho de Programação II - Giovana Campos e Natan Guimarães
