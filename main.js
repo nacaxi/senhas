@@ -1,8 +1,10 @@
 const numeroSenha = document.querySelector('.parametro-senha__texto')
 const botoes = document.querySelectorAll('.parametro-senha__botao')
-console.log(botoes)
+botoes[0].onclick= diminuirTamanho
+let tamanhoSenha = 5 
+numeroSenha.textContent = tamanhoSenha
     fuction diminuirTamanho() {
-        console.log('teste')
+        numeroSenha.textContent = tamanhoSenha 
     }
 
-numeroSenha.textContent = 6  
+
