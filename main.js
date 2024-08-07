@@ -13,6 +13,8 @@ let minuscula = "abcedfghijklmnopqrstuvwxyz"
 let numero = "0123456789"
 let simbolos = "!?@%&*"
 
+geraSenha()
+
 function diminuirTamanho() {
     if(tamanhoSenha > 1)
     tamanhoSenha = tamanhoSenha - 1
