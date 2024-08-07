@@ -31,7 +31,8 @@ function aumentarTamanho(){
 
 function geraSenha(){
     let senha = " "
-    for(let i = 0; i < tamanhoSenha; i++)
-    let numeroAleatorio = Math.random()*maiuscula.length
+    for(let i = 0; i < tamanhoSenha; i++){
+    let numeroAleatorio = Math.random()
     console.log(numeroAleatorio)
+}
 }
