@@ -27,3 +27,6 @@ function aumentarTamanho(){
 
 }
 
+function geraSenha(){
+    
+}
