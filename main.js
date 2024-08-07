@@ -16,14 +16,14 @@ let simbolos = "!?@%&*"
 function diminuirTamanho() {
     if(tamanhoSenha > 1)
     tamanhoSenha = tamanhoSenha - 1
-        numeroSenha.textContent = tamanhoSenha 
-    }
-
+    numeroSenha.textContent = tamanhoSenha
+    
+}
 
 function aumentarTamanho(){
-if(aumentarTamanho < 20)
+    if(aumentarTamanho < 20)
     tamanhoSenha= tamanhoSenha + 1
-numeroSenha.textContent = tamanhoSenha
-
+    numeroSenha.textContent = tamanhoSenha
 
 }
+
