@@ -4,7 +4,7 @@
     --cor-de-fundo: #004c4e;
     --cor-de-texto: white;
     --fundo-senha: #004d40;
-    --fundo-texto: #004d40;
+    --fundo-texto: #00a39b;
     --borda: #007474;
 }
 
@@ -43,7 +43,7 @@ body{
 }
 
 #campo-senha{
-    background-color: var(--fundo-texto);
+    background-color: var(--fundo-senha);
     border: none;
     color: var(--cor-de-texto);
     font-size: 40px;
