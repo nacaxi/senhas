@@ -20,20 +20,20 @@ let simbolos = "!?@%&*"
 geraSenha()
 
 function diminuirTamanho() {
-    if(tamanhoSenha > 1){
-        tamanhoSenha = tamanhoSenha - 1
-        numeroSenha.textContent = tamanhoSenha
+    if (tamanhoSenha > 1) {
+        // tamanhoSenha = tamanhoSenha-1;
+        tamanhoSenha--;
     }
-    geraSenha()
+    numeroSenha.textContent = tamanhoSenha;
+    geraSenha();
 }
-
-function aumentarTamanho(){
-    if(aumentarTamanho < 20){
-        tamanhoSenha= tamanhoSenha + 1
-        numeroSenha.textContent = tamanhoSenha
+function aumentarTamanho() {
+    if (tamanhoSenha < 20) {
+        // tamanhoSenha = tamanhoSenha+1;
+        tamanhoSenha++;
     }
-    geraSenha()
-
+    numeroSenha.textContent = tamanhoSenha;
+    geraSenha();
 }
 
 function geraSenha(){
